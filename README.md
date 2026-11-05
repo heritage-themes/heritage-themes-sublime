@@ -66,6 +66,6 @@ The colours follow the scope names of Sublime Text's built-in syntaxes. A langua
 | [Zalipie](https://github.com/heritage-themes/heritage-themes/tree/master/themes/zalipie) | Zalipie Sadza (Dark), Zalipie Wapno (Light) | The painted cottages of Zalipie: lime, soot and clay for text, keywords and comments, and the flowers for names, with rose methods, leaf-green strings and violet types, on a soot plinth or a lime-washed wall. |
 | [Złotnica](https://github.com/heritage-themes/heritage-themes/tree/master/themes/zlotnica) | Złotnica Aksamit (Dark), Złotnica Płótno (Light) | The gold-and-silver embroidered bonnets of Kashubia: hierarchy by metal, tone and weight, with sapphire, burgundy and emerald velvet as the only colours, on green velvet or white linen. |
 
-Each family's page describes its colour tradition. The same themes are available for JetBrains IDEs and VS Code: see [Heritage Themes on GitHub](https://github.com/heritage-themes/heritage-themes).
+Each family's page describes its colour tradition. The same themes are available for JetBrains IDEs, VS Code, Visual Studio, Zed, Neovim, Notepad++, Xcode, Helix, Kakoune, Micro, Vim, Emacs, Nano, Textadept, Lapce, Qt Creator, Amp, Eclipse, Nova and terminals: see [Heritage Themes on GitHub](https://github.com/heritage-themes/heritage-themes).
 
 Report a problem or suggest a tradition on the [issue tracker](https://github.com/heritage-themes/heritage-themes/issues). Include the scheme, Sublime Text build, syntax and a screenshot.

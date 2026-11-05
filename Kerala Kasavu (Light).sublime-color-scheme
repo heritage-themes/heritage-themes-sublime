@@ -16,7 +16,7 @@
     "selection": "#D4E8DA",
     "selInactive": "#E2E5D8",
     "lineNo": "#AAA58D",
-    "lineNoCaret": "#A07000",
+    "lineNoCaret": "#8E6300",
     "guide": "#EAE3CE",
     "guideSel": "#D5C8A4",
     "keyword": "#AE2D2F",
@@ -34,8 +34,8 @@
     "docTag": "#5A4E32",
     "op": "#565C56",
     "param": "#1F2420",
-    "typeParam": "#79702E",
-    "gold": "#8B6C05",
+    "typeParam": "#756C2D",
+    "gold": "#856705",
     "red": "#B0203A",
     "redText": "#FFF8F2",
     "azure": "#1060A8",
@@ -58,11 +58,11 @@
     "diffConf": "#F5E8C4",
     "fileYellow": "#F7EBC4",
     "ansiRed": "#B0203A",
-    "ansiGreen": "#3A7A1E",
+    "ansiGreen": "#3A791E",
     "ansiYellow": "#7A5A00",
     "ansiBlue": "#1060A8",
     "ansiMagenta": "#9C3A8A",
-    "ansiCyan": "#007A78"
+    "ansiCyan": "#007876"
   },
   "globals": {
     "background": "var(bg)",
