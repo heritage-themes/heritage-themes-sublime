@@ -28,6 +28,7 @@
     "field": "#F07A68",
     "constant": "#F49AC6",
     "annotation": "#F49AC6",
+    "directive": "#B9CD69",
     "label": "#F5F3EC",
     "comment": "#7F7D75",
     "doc": "#8E8C84",
@@ -144,9 +145,13 @@
       "font_style": "bold italic"
     },
     {
-      "scope": "keyword, storage.type, storage.modifier, keyword.operator.new, keyword.operator.expression, keyword.operator.wordlike, keyword.operator.logical.python, keyword.operator.sizeof, keyword.operator.instanceof, keyword.operator.typeof, keyword.operator.delete, keyword.operator.in, keyword.operator.of, keyword.control.directive, punctuation.definition.directive, support.type.primitive, entity.name.type.primitive.rust, entity.name.type.numeric.rust",
+      "scope": "keyword, storage.type, storage.modifier, keyword.operator.new, keyword.operator.expression, keyword.operator.wordlike, keyword.operator.logical.python, keyword.operator.sizeof, keyword.operator.instanceof, keyword.operator.typeof, keyword.operator.delete, keyword.operator.in, keyword.operator.of, support.type.primitive, entity.name.type.primitive.rust, entity.name.type.numeric.rust",
       "foreground": "var(keyword)",
       "font_style": "bold"
+    },
+    {
+      "scope": "keyword.control.directive, punctuation.definition.directive",
+      "foreground": "var(directive)"
     },
     {
       "scope": "keyword.operator, punctuation, storage.type.function.arrow, meta.brace, storage.modifier.reference, storage.modifier.pointer",
@@ -405,6 +410,10 @@
       "scope": "keyword.operator.word, punctuation.definition.keyword",
       "foreground": "var(keyword)",
       "font_style": "bold"
+    },
+    {
+      "scope": "meta.preprocessor keyword.control.import",
+      "foreground": "var(directive)"
     },
     {
       "scope": "punctuation.accessor, punctuation.separator, punctuation.terminator",
