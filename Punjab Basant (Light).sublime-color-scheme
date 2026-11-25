@@ -53,9 +53,9 @@
     "added": "#5E9A50",
     "modified": "#4F7FC0",
     "deleted": "#C05050",
-    "diffIns": "#E0EDCC",
+    "diffIns": "#E1EECD",
     "diffMod": "#DCE6F2",
-    "diffDel": "#F5DCD2",
+    "diffDel": "#FDE4DA",
     "diffConf": "#F2E4B4",
     "fileYellow": "#F4E4A9",
     "ansiRed": "#B0202E",
@@ -63,7 +63,7 @@
     "ansiYellow": "#7A5200",
     "ansiBlue": "#1F55A8",
     "ansiMagenta": "#A3207A",
-    "ansiCyan": "#00756E"
+    "ansiCyan": "#00706A"
   },
   "globals": {
     "background": "var(bg)",

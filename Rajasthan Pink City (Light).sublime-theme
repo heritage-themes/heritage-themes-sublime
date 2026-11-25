@@ -220,16 +220,16 @@
     {
       "class": "quick_panel_label",
       "fg": "#2A2026",
-      "match_fg": "#1D62B0",
+      "match_fg": "#1860AE",
       "selected_fg": "#2A2026",
-      "selected_match_fg": "#1D62B0"
+      "selected_match_fg": "#1860AE"
     },
     {
       "class": "quick_panel_path_label",
       "fg": "#615256",
-      "match_fg": "#1D62B0",
+      "match_fg": "#1860AE",
       "selected_fg": "#2A2026",
-      "selected_match_fg": "#1D62B0"
+      "selected_match_fg": "#1860AE"
     },
     {
       "class": "quick_panel_label hint",

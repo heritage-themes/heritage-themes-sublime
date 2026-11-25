@@ -53,17 +53,17 @@
     "added": "#579766",
     "modified": "#507FA7",
     "deleted": "#BB5752",
-    "diffIns": "#D7EBDA",
+    "diffIns": "#D9EDDC",
     "diffMod": "#D7E7F5",
-    "diffDel": "#F8DDDC",
+    "diffDel": "#FDE2E1",
     "diffConf": "#F1E3C7",
     "fileYellow": "#EEE9DF",
     "ansiRed": "#AC3031",
-    "ansiGreen": "#2F6D34",
-    "ansiYellow": "#7D5E07",
+    "ansiGreen": "#2C6A32",
+    "ansiYellow": "#785901",
     "ansiBlue": "#23588A",
     "ansiMagenta": "#793974",
-    "ansiCyan": "#086A73"
+    "ansiCyan": "#036871"
   },
   "globals": {
     "background": "var(bg)",

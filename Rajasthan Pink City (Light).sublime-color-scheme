@@ -59,11 +59,11 @@
     "diffConf": "#F5E6C2",
     "fileYellow": "#F5DEBD",
     "ansiRed": "#B3203F",
-    "ansiGreen": "#337012",
+    "ansiGreen": "#306D0F",
     "ansiYellow": "#7F5800",
-    "ansiBlue": "#1D62B0",
+    "ansiBlue": "#1860AE",
     "ansiMagenta": "#A3207F",
-    "ansiCyan": "#056F64"
+    "ansiCyan": "#006C62"
   },
   "globals": {
     "background": "var(bg)",

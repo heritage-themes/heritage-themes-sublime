@@ -58,11 +58,11 @@
     "diffDel": "#34191C",
     "diffConf": "#342E16",
     "fileYellow": "#13202C",
-    "ansiRed": "#F07E6E",
+    "ansiRed": "#FD8A79",
     "ansiGreen": "#8CC878",
     "ansiYellow": "#EECC5A",
     "ansiBlue": "#82AEF0",
-    "ansiMagenta": "#DE8AD0",
+    "ansiMagenta": "#E38ED4",
     "ansiCyan": "#6CCCD0"
   },
   "globals": {

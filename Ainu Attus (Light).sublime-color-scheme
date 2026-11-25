@@ -55,15 +55,15 @@
     "deleted": "#C05050",
     "diffIns": "#DCE8C8",
     "diffMod": "#D6DEEC",
-    "diffDel": "#F2D4CE",
+    "diffDel": "#F5D7D1",
     "diffConf": "#ECDDB0",
     "fileYellow": "#EAE2CF",
     "ansiRed": "#A3201E",
-    "ansiGreen": "#2D6B26",
-    "ansiYellow": "#7A5800",
+    "ansiGreen": "#2B6925",
+    "ansiYellow": "#795700",
     "ansiBlue": "#1F55A8",
     "ansiMagenta": "#8E2A90",
-    "ansiCyan": "#0A6A78"
+    "ansiCyan": "#006674"
   },
   "globals": {
     "background": "var(bg)",
